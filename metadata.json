@@ -1,0 +1,5 @@
+{
+  "name": "PhysioAI - Smart Muscle Recovery",
+  "description": "An AI-powered physiotherapy assistant that helps identify muscle pain through an interactive anatomy model and provides actionable recovery plans including stretches, strengthening exercises, and soothing techniques.",
+  "requestFramePermissions": []
+}
